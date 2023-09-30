@@ -1,4 +1,4 @@
-# SimplyMock
+# MoqExt
 Simple no-nonsense mocking and auto-mock generator
 
     var mockingContext = new MockingContext(new ServiceCollection()
@@ -10,4 +10,4 @@ Simple no-nonsense mocking and auto-mock generator
 
     Assert.Equal("Hello world!", foo.DoSomething());
 
-https://github.com/quantumagi/SimplyMock/blob/master/Moq.SimplyMock.Tests/MockingContextTests.cs#L49-L56
+https://github.com/quantumagi/SimplyMock/blob/master/MoqExt.Tests/MockingContextTests.cs#L49-L56
