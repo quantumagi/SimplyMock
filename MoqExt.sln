@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Moq.SimplyMock", "Moq.SimplyMock\Moq.SimplyMock.csproj", "{14C005D0-19C0-4273-89FE-7823A75C47E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoqExt", "MoqExt\MoqExt.csproj", "{14C005D0-19C0-4273-89FE-7823A75C47E0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Moq.SimplyMock.Tests", "Moq.SimplyMock.Tests\Moq.SimplyMock.Tests.csproj", "{31BE6E42-DFC7-4F11-8AD0-CBC401C68332}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoqExt.Tests", "MoqExt.Tests\MoqExt.Tests.csproj", "{31BE6E42-DFC7-4F11-8AD0-CBC401C68332}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
-    <AssemblyName>Moq.SimplyMock.Tests</AssemblyName>
-    <PackageId>Moq.SimplyMock.Tests</PackageId>
+    <AssemblyName>MoqExt.Tests</AssemblyName>
+    <PackageId>MoqExt.Tests</PackageId>
     <GenerateRuntimeConfigurationFiles>true</GenerateRuntimeConfigurationFiles>
     
     <GenerateAssemblyTitleAttribute>false</GenerateAssemblyTitleAttribute>
@@ -21,9 +21,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Moq.SimplyMock.Tests\**" />
-    <EmbeddedResource Remove="Moq.SimplyMock.Tests\**" />
-    <None Remove="Moq.SimplyMock.Tests\**" />
+    <Compile Remove="MoqExt.Tests\**" />
+    <EmbeddedResource Remove="MoqExt.Tests\**" />
+    <None Remove="MoqExt.Tests\**" />
   </ItemGroup>
 
   <ItemGroup>
@@ -38,7 +38,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Moq.SimplyMock\Moq.SimplyMock.csproj" />
+    <ProjectReference Include="..\MoqExt\MoqExt.csproj" />
   </ItemGroup>
 
   <ItemGroup>

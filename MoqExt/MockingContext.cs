@@ -1,7 +1,8 @@
 ﻿using System.Reflection;
 using Microsoft.Extensions.DependencyInjection;
+using Moq;
 
-namespace Moq.SimplyMock
+namespace MoqExt
 {
     /// <summary>
     /// Implements a <c>GetService</c> that concretizes services on-demand and also mocks services that can't otherwise be concretized.

@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using System.Reflection;
 
-namespace Moq.SimplyMock
+namespace MoqExt
 {
     public static class IServiceCollectionExt
     {

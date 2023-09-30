@@ -1,7 +1,8 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using Xunit;
+using Moq;
 
-namespace Moq.SimplyMock.Tests
+namespace MoqExt.Tests
 {
     public interface IFoo
     {
