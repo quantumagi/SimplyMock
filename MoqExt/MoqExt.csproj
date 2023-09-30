@@ -5,15 +5,17 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 	<PackageId>MoqExt</PackageId>
-	<Version>1.0.1</Version>
+	<Version>1.0.2</Version>
 	<Authors>Gustav Stieger</Authors>
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>
 	<Description>A tiny package (about 200 LOC) that implements a powerful MockingContext class. Try it.</Description>
 	<PackageReadmeFile>README.md</PackageReadmeFile>
+	<PackageIcon>images\icon.png</PackageIcon>  
   </PropertyGroup>
 
   <ItemGroup>
 	<None Include="README.md" Pack="true" PackagePath="" />
+	<None Include="images\icon.png" Pack="true" PackagePath="images\" />
   </ItemGroup>
 
   <ItemGroup>
