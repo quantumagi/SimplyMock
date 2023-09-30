@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 	<PackageId>MoqExt</PackageId>
-	<Version>1.0.0</Version>
+	<Version>1.0.1</Version>
 	<Authors>Gustav Stieger</Authors>
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>
 	<Description>A tiny package (about 200 LOC) that implements a powerful MockingContext class. Try it.</Description>
